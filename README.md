@@ -6,10 +6,6 @@ Arquitetura relacionado a armazenamento de arquivos usando S3 e S3 Otimizado par
 
 Aqui exibimos como os serviços da AWS se conectam para entregar a solução.
 
-*(Escolha uma das opções abaixo para inserir seu diagrama)*
-
-### Opção 1: Imagem (PNG/JPG/SVG)
-
 ![Diagrama da Arquitetura AWS - Desafio DIO](imagens/Desafio.jpg)
 
 

@@ -9,7 +9,6 @@ Aqui exibimos como os serviços da AWS se conectam para entregar a solução.
 *(Escolha uma das opções abaixo para inserir seu diagrama)*
 
 ### Opção 1: Imagem (PNG/JPG/SVG)
-*A forma mais comum. A imagem deve estar salva na pasta do seu repositório (ex: `/docs/arquitetura.png`).*
 
 ![Diagrama da Arquitetura AWS - Desafio DIO](imagens/Desafio.jpg)
 

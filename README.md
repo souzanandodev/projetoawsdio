@@ -31,4 +31,4 @@ Aqui exibimos como os serviços da AWS se conectam para entregar a solução.
 5. Backup dedicado: Snapshots dos volumes **EBS** e backups automáticos do banco RDS (se mantido) são enviados para o bucket Backup S3, garantindo resiliência e recuperação.
 
 ---
-Criado com ☁️ por [Fernando S Cardoso/https://github.com/souzanandodev/projetoawsdio]
+Criado com ☁️ por [Fernando S Cardoso/https://github.com/souzanandodev/]
